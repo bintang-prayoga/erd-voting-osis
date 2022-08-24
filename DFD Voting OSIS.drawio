@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:03:22.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7W4NRp6XzVNyKW0FeOK9" version="20.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-24T03:26:39.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gTFGCu2_LVDWKP-91Gum" version="20.2.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="DFD LVL 0, 1">
-    <mxGraphModel dx="2304" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="RtsX9g8vJlGccVRcH5uq-9" value="Data Voting&lt;br&gt;Data Siswa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RtsX9g8vJlGccVRcH5uq-5" vertex="1" connectable="0">
           <mxGeometry x="0.4171" y="2" relative="1" as="geometry">
-            <mxPoint x="-18" y="-32" as="offset" />
+            <mxPoint x="-18" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d97Z-9WAoow3shGw0GhY-34" value="Akses Admin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RtsX9g8vJlGccVRcH5uq-5">
@@ -227,10 +227,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HOsKCbkMDiBbVWycFOxk-6" value="Konfirmasi Pengajuan Kandidat" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HOsKCbkMDiBbVWycFOxk-7" value="Konfirmasi Pengajuan Kandidat" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="760" width="80" height="80" as="geometry" />
+        <mxCell id="HOsKCbkMDiBbVWycFOxk-7" value="Memulai Voting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HOsKCbkMDiBbVWycFOxk-8" value="Mengelola Data Informasi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HOsKCbkMDiBbVWycFOxk-9" value="Mengelola Voting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
