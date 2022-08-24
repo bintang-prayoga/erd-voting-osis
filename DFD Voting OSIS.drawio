@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:26:39.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gTFGCu2_LVDWKP-91Gum" version="20.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-24T04:32:41.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0GrvyqJJhOnZJPNnP9Sf" version="20.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="DFD LVL 0, 1">
     <mxGraphModel dx="1882" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,15 @@
             <mxPoint x="180" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g9JvpUDmvncg20X6kRy2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOsKCbkMDiBbVWycFOxk-0" target="HOsKCbkMDiBbVWycFOxk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9JvpUDmvncg20X6kRy2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOsKCbkMDiBbVWycFOxk-0" target="g9JvpUDmvncg20X6kRy2-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9JvpUDmvncg20X6kRy2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOsKCbkMDiBbVWycFOxk-0" target="HOsKCbkMDiBbVWycFOxk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HOsKCbkMDiBbVWycFOxk-0" value="Dashboard Admin" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -226,23 +235,20 @@
             <mxPoint x="720" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HOsKCbkMDiBbVWycFOxk-6" value="Konfirmasi Pengajuan Kandidat" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HOsKCbkMDiBbVWycFOxk-6" value="Pengelolaan Voting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="730" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HOsKCbkMDiBbVWycFOxk-7" value="Memulai Voting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HOsKCbkMDiBbVWycFOxk-8" value="Mengelola Data Informasi" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HOsKCbkMDiBbVWycFOxk-9" value="Mengelola Voting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="830" width="80" height="80" as="geometry" />
+        <mxCell id="g9JvpUDmvncg20X6kRy2-0" value="Mengelola Data Siswa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="L0ouxaiy8fEvx0Li_1jq" name="Subprocess">
-    <mxGraphModel dx="3557" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="L0ouxaiy8fEvx0Li_1jq" name="Subprocess Siswa">
+    <mxGraphModel dx="3473" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,6 +360,41 @@
         <mxCell id="3Z3Z4fkHvEar0FRMHiVc-13" value="Home&lt;br&gt;+Fitur Siswa&lt;br&gt;+Fitur Edit Profil Kandidat" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="589" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Subprocess Pengajuan Kandidat&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2415" y="890" width="590" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-6" value="Siswa" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2195" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-8" value="Register" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2325" y="1180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-10" value="Autentikasi&lt;br&gt;akun" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2005" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-11" value="Sudah Registrasi?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2175" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UHfienbJ5C0Wf-pa5QIU-13" value="Home&lt;br&gt;+Fitur Mengajukan&lt;br&gt;+Fitur Edit Profil&lt;br&gt;+Fitur Hak Voting" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-2185" y="1279" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54T_ebKJSPmAwhQLKcR8-1" value="1. tb_siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="484.5" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="54T_ebKJSPmAwhQLKcR8-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLv68H1F5t3JMvq4PJ_i-10" target="54T_ebKJSPmAwhQLKcR8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1930" y="520" as="sourcePoint" />
+            <mxPoint x="-1880" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Nj7cCTo6gmSTPpKqBUBn" name="Subprocess Admin">
+    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
